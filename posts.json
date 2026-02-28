@@ -1,0 +1,27 @@
+[
+  {
+    "id": 1772298021697,
+    "title": "machine learning",
+    "content": "Machine learning (ML) is a subset of artificial intelligence (AI) that enables systems to automatically learn and improve from data without being explicitly programmed. Instead of hard-coded instructions, ML uses algorithms to detect patterns in data, making predictions or decisions to solve problems like image recognition, fraud detection, and, as shown by Google Cloud, reinforcement learning, such as playing games through trial and error."
+  },
+  {
+    "id": 1772298043724,
+    "title": "deep learning",
+    "content": "Deep learning is a subset of machine learning (ML) and artificial intelligence (AI) that uses multi-layered artificial neural networks to learn, identify complex patterns, and make decisions, often from raw, unstructured data. It is designed to mimic the hierarchical learning process of the human brain, allowing computers to automatically discover relevant features without requiring manual, explicit programming for feature extraction"
+  },
+  {
+    "id": 1772298089174,
+    "title": "natural language processing",
+    "content": "Natural Language Processing (NLP) is a branch of artificial intelligence (AI) that enables computers to understand, interpret, generate, and manipulate human language (text or speech). It combines computational linguistics, rule-based modeling, and machine learning/deep learning to bridge the gap between human communication and computer comprehension."
+  },
+  {
+    "id": 1772299281301,
+    "title": "computer vision",
+    "content": "Computer vision is a field of artificial intelligence (AI) that enables computers and systems to derive meaningful information from digital images, videos, and other visual inputs, allowing them to take action or make recommendations based on that data. It mimics human sight by using deep learning models to identify, classify, and track objects, as well as reconstruct 3D environments."
+  },
+  {
+    "id": 1772300029909,
+    "title": "genai",
+    "content": "Generative Artificial Intelligence (GenAI) is a subset of artificial intelligence that focuses on creating new, original content—such as text, images, video, audio, and code—by learning patterns from massive, existing datasets. Unlike traditional AI, which is designed to analyze, classify, or predict data, GenAI focuses on producing novel outputs that mirror human creativity and, in many cases, are indistinguishable from human-created work"
+  }
+]
