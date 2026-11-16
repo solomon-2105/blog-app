@@ -1,5 +1,7 @@
 # Blog App 
 
+link : https://blog-app-xt3g.onrender.com
+
 A simple blog application built using **Node.js**, **Express**, and **EJS**.
 This project demonstrates server-side rendering, routing, middleware usage, and file-based data persistence without using a database.
 
@@ -74,10 +76,3 @@ http://localhost:3000
 ```
 
 ---
-
-## Deployment
-
-This application is deployed on Render.
-
-Live on:
-[https://blog-app-xt3g.onrender.com/](https://blog-app-xt3g.onrender.com/)
